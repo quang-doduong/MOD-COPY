@@ -20,7 +20,7 @@
 	{
 		"name": "OUTMETA",
 		"unitType": "Ranged",
-		"uniqueTo": "TEST",
+		"uniqueTo": "Testasty",
 		"replaces": "Warrior",
 		"movement": 10,
 		"strength": 200,
