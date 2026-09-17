@@ -43,7 +43,7 @@
 	{
 		"name": "Testasty",
 		"leaderName": "NO.1",
-		"adjective": ["alien"],
+		"adjective": ["TEST"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
